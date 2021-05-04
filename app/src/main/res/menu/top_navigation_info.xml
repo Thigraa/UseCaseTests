@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/edit_page"
+        android:enabled="true"
+        android:title="@string/edit"
+        android:icon="@drawable/camera_clipart"/>
+
+    <item
+        android:id="@+id/preview_page"
+        android:enabled="true"
+        android:title="@string/preview"
+        android:icon="@drawable/person_clipart" />
+</menu>
